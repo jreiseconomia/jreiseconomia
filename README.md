@@ -34,23 +34,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo" />
 </div>
 
-###
 
-<br clear="both">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jreiseconomia/jreiseconomia/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jreiseconomia/jreiseconomia/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jreiseconomia/jreiseconomia/output/pacman-contribution-graph.svg">
-  <br clear="both">
+<img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGNzODg1MmVhYmVuZTIybng2eHA4emhpYXN6ZHJvY2o4aGtpYjltcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Cmr1OMJ2FN0B2/giphy.gif](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.gif)"  />
 
-<img src="https://raw.githubusercontent.com/jreiseconomia/jreiseconomia/output/snake.svg" alt="Snake animation" />
-</picture>
+<br clear="both" />
 
 ###
