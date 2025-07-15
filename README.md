@@ -48,6 +48,9 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jreiseconomia/jreiseconomia/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jreiseconomia/jreiseconomia/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jreiseconomia/jreiseconomia/output/pacman-contribution-graph.svg">
+  <br clear="both">
+
+<img src="https://raw.githubusercontent.com/jreiseconomia/jreiseconomia/output/snake.svg" alt="Snake animation" />
 </picture>
 
 ###
